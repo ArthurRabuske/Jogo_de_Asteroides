@@ -1,4 +1,2 @@
 # Jogo_de_Asteroides
-Jogo de asteroides desenvolvido em Python com a bibliota Pygame.
-
-O objetivo do jogo é ficar o maior tempo possivel fugindo dos asteroides.
+Jogo de asteroides desenvolvido em Python, utilizando a biblioteca Pygame. O objetivo principal é sobreviver o máximo de tempo possível, desviando de asteroides que se movem de forma aleatória pela tela.
